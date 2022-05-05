@@ -3,7 +3,7 @@ This repository contains the MATLAB implementations of the different Multiplicat
 
 MEKF_GitHub_v2: MEKF without any bias estimation. Reset protocol has been changed in the recent version.
 
-MEKF_GyroBias_GitHub: MEKF with the gyroscope bias estimation.
+MEKF_GyroBias_GitHub_v1: MEKF with the gyroscope bias estimation. Innovation covariance was updated, and some minor updates.
 
 Contact: batucandan1996@gmail.com
 
